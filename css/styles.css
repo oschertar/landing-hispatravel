@@ -543,7 +543,12 @@ input[type='checkbox'] {
 .header .h1-large {
 	margin-bottom: 1.375rem;
 	color: #ffffff;
-	font-size:60px;
+	font-size:50px;
+}
+
+lottie-player{
+	width: 381px;
+	height: 300px;
 }
 
 .header .h2-large{
@@ -1035,6 +1040,12 @@ a:hover.back-to-top {
 		width: 35rem;
 		margin-right: auto;
 		margin-left: auto;
+	}
+
+
+	lottie-player{
+		width: 500px;
+		height: 300px;
 	}
 	/* end of invitation */
 }
